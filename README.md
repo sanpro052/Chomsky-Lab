@@ -100,4 +100,6 @@ Función: incrementar en uno un número unario. Alfabeto de entrada `{1}`; alfab
 
 ## Autores y curso
 
-**Proyecto final de Teoría de Autómatas.** Completar antes de publicar: integrantes, docente, universidad, grupo y fecha de entrega.
+**Proyecto final de Teoría de Autómatas.*Manuel Santiago Sequeda Pinilla
+Politecnico GranColombiano
+Automatas programables
